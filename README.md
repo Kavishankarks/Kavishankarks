@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavishankarks
 - 👀 I’m interested in data science and machine leaning
-- 🌱 I’m currently learning habit farming and application of deep learning in day to day life and business analytics.
+- 🌱 I’m currently learning habit forming and application of deep learning in day to day life and business analytics.
 - 💞️ I’m looking to collaborate on stack development and flask development.
 
 <!---
